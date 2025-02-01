@@ -3,7 +3,7 @@
 
 <img src="https://tenor.com/mM6CjkwT9UX.gif" width="200" />
 
-## **Fala guys, esse é o meu perfil do Github ✌️**
+## **Fala guys ✌️**
 
 <img src="https://media.discordapp.net/attachments/1326374784325652602/1335313047316856992/hshhs.jpg?ex=679fb6af&is=679e652f&hm=64dac1ed57ceb676f7a9fdabcf0cef3da63f8293d02619120c76e719a8dc2aa6&=&format=webp&width=498&height=498" width="200" />
 
