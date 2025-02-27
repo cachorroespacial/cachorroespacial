@@ -1,11 +1,11 @@
 ## Bem-vindo ao meu perfil do Github 👋  
-<img src="https://cdn.discordapp.com/attachments/1326374784325652602/1335305023642534061/Tonikaku_Kawai_Tonikaku_GIF_-_Tonikaku_Kawai_Tonikaku_Kawai_-_Discover__Share_GIFs.gif?ex=679faf36&is=679e5db6&hm=c24783a171d41c855e775380941138132237080a44dea63eab59f4e7e9072541&" width="50" />
+<img src="https://media.discordapp.net/attachments/1344684528689610782/1344705585785864203/gif_dance.gif?ex=67c1e22b&is=67c090ab&hm=7adc19292a7e23554451fb607bf278d7a98edba583939fb415fe87011e1ca2d0&=" width="50" />
 
-<img src="https://tenor.com/mM6CjkwT9UX.gif" width="200" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJiNDdqaDJvbjZkNmMxdmp2cTA3Z3lpZ3Q2dXBtMjlzY2xwcnoyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 
 ## **Fala guys ✌️**
 
-<img src="https://media.discordapp.net/attachments/1326374784325652602/1335313047316856992/hshhs.jpg?ex=679fb6af&is=679e652f&hm=64dac1ed57ceb676f7a9fdabcf0cef3da63f8293d02619120c76e719a8dc2aa6&=&format=webp&width=498&height=498" width="200" />
+<img src="https://cdn.discordapp.com/attachments/1344684528689610782/1344706977372049489/melaum.gif?ex=67c1e376&is=67c091f6&hm=320f6cdcbbedcd6838ce8576752db3264fd8db115fcd977c271fbcfd5599ae82" width="200" />
 
 
 
@@ -17,7 +17,7 @@
 >- ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=00599C)
 
 <div style="text-align: center;">
-<img src="https://cdn.discordapp.com/attachments/1326374784325652602/1335316091399835750/aasda.gif?ex=679fb985&is=679e6805&hm=7ab6d72b70c80bea71ec4653eefe3827c2f315a6936c71cebdfe456ad25111e9&" width="100" />
+<img src="https://media.discordapp.net/attachments/1344684528689610782/1344727560529121431/tsu.gif?ex=67c1f6a2&is=67c0a522&hm=f835488b44291c5cd6cc4080f99bc9887117af4ea5c662940ab3e85d616f6245&=" width="100" />
 </div>
 
 ---
