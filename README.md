@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Bem-vindo+ao+meu+perfil+do+Github)](https://git.io/typing-svg)  <img src="https://media.discordapp.net/attachments/1344684528689610782/1344705585785864203/gif_dance.gif?ex=67c1e22b&is=67c090ab&hm=7adc19292a7e23554451fb607bf278d7a98edba583939fb415fe87011e1ca2d0&=" width="50" />
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Bem-vindo+ao+meu+perfil+do+Github)](https://git.io/typing-svg)  <img src="https://cdn.discordapp.com/attachments/1344684528689610782/1344705585785864203/gif_dance.gif?ex=67c9226b&is=67c7d0eb&hm=62ca945b04bf4e093c40500b0688ed114bbaf1179654fb6629b088689be2447c&" width="50" />
 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJiNDdqaDJvbjZkNmMxdmp2cTA3Z3lpZ3Q2dXBtMjlzY2xwcnoyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
