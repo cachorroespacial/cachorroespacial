@@ -5,7 +5,7 @@
 
 ## **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=F7F7F7&width=435&lines=Fala+guys+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)**
 
-<img src="https://cdn.discordapp.com/attachments/1344684528689610782/1344706977372049489/melaum.gif?ex=67c1e376&is=67c091f6&hm=320f6cdcbbedcd6838ce8576752db3264fd8db115fcd977c271fbcfd5599ae82" width="200" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B0ejYxdjQweDh6Mm5hM201aWJxeGY1eHVkYmY3cnpkeDY2aGVsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdgPsbKHKHeSSnQeRQ/giphy.gif" width="200" />
 
 
 
@@ -17,7 +17,7 @@
 >- ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=00599C)
 
 <div style="text-align: center;">
-<img src="https://media.discordapp.net/attachments/1344684528689610782/1344727560529121431/tsu.gif?ex=67c1f6a2&is=67c0a522&hm=f835488b44291c5cd6cc4080f99bc9887117af4ea5c662940ab3e85d616f6245&=" width="100" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM4b2E1bTBuMGs3ZXg5ZXN3NzNidGJjNDl5bHE5aXV4N2w5c2ExYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2q9WZqaT849UBFyuL9/giphy.gif" width="100" />
 </div>
 
 ---
